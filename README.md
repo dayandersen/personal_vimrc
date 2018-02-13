@@ -1,5 +1,5 @@
 # personal_vimrc
-## Dayne Andersen-Davis
+### Dayne Andersen-Davis
 
 Instructions for running
 *
